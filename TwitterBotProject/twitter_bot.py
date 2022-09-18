@@ -6,11 +6,11 @@ import time
 
 tweetStr = "bruh"
 
-apikey='TWdtedFsmDjmvBK8I8CnEU0tJ'
-apikeysecret='7pB8W5kn4yIVv3ilqpiwnWxy5Y6lLRKwgPFcIITU7MpjTj2qWm'
+apikey='***'
+apikeysecret='***'
 
-accesstoken='1546188306475630600-8WnWsSqZVleqJv7ONcD6dFZCNemhjS'
-accesstokensecret='OBnwnpq1pRPIXBsrrqcG5Xgvcn4GWjLr2Pm39aJR4lnbt'
+accesstoken='***'
+accesstokensecret='***'
 
 api = Twython(apikey, apikeysecret, accesstoken, accesstokensecret)
 
