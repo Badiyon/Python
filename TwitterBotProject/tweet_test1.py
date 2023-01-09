@@ -2,6 +2,7 @@ import sys
 from twython import Twython
 import time
 
+#this is just a twitter bot test using Twython
 
 tweetStr = "This is a test"
 tweetStr1 = "This is another test"

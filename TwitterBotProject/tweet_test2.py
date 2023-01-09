@@ -1,4 +1,7 @@
 import tweepy
+
+#this is a twitter bot test using tweepy
+
 apikey='***'
 apikeysecret='***'
 
